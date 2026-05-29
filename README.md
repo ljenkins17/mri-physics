@@ -6,7 +6,7 @@
 
 ---
 
-Clinical MRI physicist with experience in scanner QA, image reconstruction, signal processing, and quantitative imaging. This repository contains computational work from my NHS clinical scientist training.
+Clinical MRI physicist with experience in scanner QA, image reconstruction, signal processing, and quantitative imaging. This repository contains computational work from my NHS clinical scientist training and personal projects.
 
 ---
 
